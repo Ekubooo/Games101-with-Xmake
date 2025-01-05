@@ -1,0 +1,16 @@
+[
+{
+  "directory": "d:\\ComputerScience\\GAMES101\\GAMES101-xmake\\src\\Assignment5",
+  "arguments": ["D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/W3", "/O2", "/std:c++17", "/ID:\\ComputerScience\\Tools", "/D_CRT_SECURE_NO_WARNINGS", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\RayTracing\\windows\\x64\\release\\main.cpp.obj", "main.cpp", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\cppwinrt", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\shared", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\ucrt", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\um", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\winrt", "-imsvc", "D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\include"],
+  "file": "main.cpp"
+},
+{
+  "directory": "d:\\ComputerScience\\GAMES101\\GAMES101-xmake\\src\\Assignment5",
+  "arguments": ["D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/W3", "/O2", "/std:c++17", "/ID:\\ComputerScience\\Tools", "/D_CRT_SECURE_NO_WARNINGS", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\RayTracing\\windows\\x64\\release\\Renderer.cpp.obj", "Renderer.cpp", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\cppwinrt", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\shared", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\ucrt", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\um", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\winrt", "-imsvc", "D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\include"],
+  "file": "Renderer.cpp"
+},
+{
+  "directory": "d:\\ComputerScience\\GAMES101\\GAMES101-xmake\\src\\Assignment5",
+  "arguments": ["D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/W3", "/O2", "/std:c++17", "/ID:\\ComputerScience\\Tools", "/D_CRT_SECURE_NO_WARNINGS", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\RayTracing\\windows\\x64\\release\\Scene.cpp.obj", "Scene.cpp", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\cppwinrt", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\shared", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\ucrt", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\um", "-imsvc", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.20348.0\\winrt", "-imsvc", "D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\include"],
+  "file": "Scene.cpp"
+}]
