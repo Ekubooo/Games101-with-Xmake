@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:\\ComputerScience\\GAMES101\\GAMES101-xmake\\src\\Assignment6",
+  "arguments": ["D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/W3", "/O2", "/std:c++17", "/ID:\\ComputerScience\\Tools", "/ID:\\ComputerScience\\Tools\\eigen-3.4.0", "/D_CRT_SECURE_NO_WARNINGS", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\RayTracing\\windows\\x64\\release\\BVH.cpp.obj", "BVH.cpp"],
+  "file": "BVH.cpp"
+},
+{
+  "directory": "D:\\ComputerScience\\GAMES101\\GAMES101-xmake\\src\\Assignment6",
+  "arguments": ["D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/W3", "/O2", "/std:c++17", "/ID:\\ComputerScience\\Tools", "/ID:\\ComputerScience\\Tools\\eigen-3.4.0", "/D_CRT_SECURE_NO_WARNINGS", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\RayTracing\\windows\\x64\\release\\main.cpp.obj", "main.cpp"],
+  "file": "main.cpp"
+},
+{
+  "directory": "D:\\ComputerScience\\GAMES101\\GAMES101-xmake\\src\\Assignment6",
+  "arguments": ["D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/W3", "/O2", "/std:c++17", "/ID:\\ComputerScience\\Tools", "/ID:\\ComputerScience\\Tools\\eigen-3.4.0", "/D_CRT_SECURE_NO_WARNINGS", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\RayTracing\\windows\\x64\\release\\Renderer.cpp.obj", "Renderer.cpp"],
+  "file": "Renderer.cpp"
+},
+{
+  "directory": "D:\\ComputerScience\\GAMES101\\GAMES101-xmake\\src\\Assignment6",
+  "arguments": ["D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/W3", "/O2", "/std:c++17", "/ID:\\ComputerScience\\Tools", "/ID:\\ComputerScience\\Tools\\eigen-3.4.0", "/D_CRT_SECURE_NO_WARNINGS", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\RayTracing\\windows\\x64\\release\\Scene.cpp.obj", "Scene.cpp"],
+  "file": "Scene.cpp"
+},
+{
+  "directory": "D:\\ComputerScience\\GAMES101\\GAMES101-xmake\\src\\Assignment6",
+  "arguments": ["D:\\VS2022\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/W3", "/O2", "/std:c++17", "/ID:\\ComputerScience\\Tools", "/ID:\\ComputerScience\\Tools\\eigen-3.4.0", "/D_CRT_SECURE_NO_WARNINGS", "/EHsc", "/utf-8", "/DNDEBUG", "/Fobuild\\.objs\\RayTracing\\windows\\x64\\release\\Vector.cpp.obj", "Vector.cpp"],
+  "file": "Vector.cpp"
+}]
